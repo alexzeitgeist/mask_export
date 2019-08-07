@@ -1,5 +1,5 @@
 {
-    "name": "ichhabrecht/mask-export",
+    "name": "alexzeitgeist/mask-export",
     "description": "Export your mask elements as extension",
     "type": "typo3-cms-extension",
     "keywords": [
@@ -22,7 +22,7 @@
         "typo3/cms-core": "^7.6 || ^8.7 || ^9.5",
         "typo3/cms-extbase": "^7.6 || ^8.7 || ^9.5",
         "typo3/cms-fluid": "^7.6 || ^8.7 || ^9.5",
-        "mask/mask": "^2.0 || ^3.0 || ^4.0"
+        "ironshark/mask": "dev-master || ^2.0 || ^3.0 || ^4.0"
     },
     "require-dev": {
         "typo3/cms-fluid-styled-content": "^7.6 || ^8.7 || ^9.5",
